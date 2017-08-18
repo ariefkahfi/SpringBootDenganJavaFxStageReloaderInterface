@@ -1,0 +1,8 @@
+com\arief\boot\main\App$1.class
+com\arief\boot\FxControllers\FormController.class
+com\arief\boot\FxControllers\ListController.class
+com\arief\boot\config\AbstractFxController.class
+com\arief\boot\FxControllers\MainController.class
+com\arief\boot\config\FxInit.class
+com\arief\boot\config\StageReloader.class
+com\arief\boot\main\App.class
